@@ -9,7 +9,7 @@
 - FastAPI backend with clean architecture
 - Single endpoint `/analyze/{sector}` for sector analysis
 - Market data collection via DuckDuckGo search
-- AI-powered analysis using Google Gemini (`gemini-1.5-flash`)
+- AI-powered analysis using Google Gemini (`gemini-2.5-flash`)
 - Markdown report generation
 - Rate limiting (5 requests/minute)
 - Logging for debugging
